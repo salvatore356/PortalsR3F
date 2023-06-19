@@ -15,7 +15,7 @@ To get started, make sure you have the following prerequisites installed:
 Clone the project repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/salvatore356/PortalsR3F
 ```
 Navigate to the project directory:
 
